@@ -35,7 +35,7 @@ This Release contains new features/changes for the below areas of the framework.
 
 | Area | Has Changed? | Adoption Required? |
 |---|---|---|
-| Dev Tools (UI Editor, BOL editor, menu, Online Code editor, App Cache-Control) | No | No |
+| Dev Tools (UI Editor, BOL editor, menu, Online Code editor, App Cache-Control) | No | yes |
 | Dev Config Tools | No | No |
 | UI Controls | No | No |
 | BOL | Yes | No |
