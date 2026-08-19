@@ -1,7 +1,5 @@
 # Klobase Release Notes
 
-# Release Notes
-
 **Release Notes** are a short, structured summary published alongside a software release that informs users and stakeholders about what has changed in that version.
 
 ## Typically Includes
