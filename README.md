@@ -1,9 +1,4 @@
-# Technical-Documentation
-
-# BOL (Business/Data Object Layer)
-
-**Platform:** Procify/KloBase
-**Jira Component:** BOL — *"Data Transactions"*
+# Klobase Release Notes
 
 # Release Notes
 
@@ -22,7 +17,7 @@ Release notes help users, testers, and stakeholders quickly understand **what's 
 
 
   - [Release notes 7.2.334](./BOL/Release%20Notes/7.2.344%20Klobase%20Release%20Note/)
-  - [Release notes 7.2.334](./BOL/Release%20Notes/7.2.338%20Klobase%20Release%20Note/)
+  - [Release notes 7.2.338](./BOL/Release%20Notes/7.2.338%20Klobase%20Release%20Note/)
   
   
 
