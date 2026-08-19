@@ -1,9 +1,8 @@
 # Technical-Documentation
 
-**Types of documentsComponents:**
+**Types of Components:**
 
   - [BOL](./) 
-  - [Release Notes](./)
-  - [User guides](./)
-  - 
+  
+  
 
