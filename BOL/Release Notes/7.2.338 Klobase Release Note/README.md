@@ -1,4 +1,3 @@
-
 layout: default
 title: Release Notes
 --- 7.2.338 Klobase Release Note
