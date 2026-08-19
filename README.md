@@ -1,7 +1,7 @@
 # Technical-Documentation
 
-**Types of documents:**
+**Types of documentsComponents:**
 
-  - [User guides](./)
-  - [Release Notes](./release%20Notes/BOL/BOL)
+  - [BOL](./) 
+  - [Release Notes](./7.2.344 Klobase Release Note)
 
