@@ -1,4 +1,4 @@
- 7.2.344 Klobase Release Note
+7.2.344 Klobase Release Note
 
 | Field | Value |
 |---|---|
