@@ -1,4 +1,6 @@
-7.2.344 Klobase Release Note
+layout: default
+title: Release Notes
+---7.2.344 Klobase Release Note
 
 | Field | Value |
 |---|---|

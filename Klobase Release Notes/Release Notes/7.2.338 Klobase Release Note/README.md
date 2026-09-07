@@ -1,4 +1,3 @@
-layout: default
 title: Release Notes
 --- 7.2.338 Klobase Release Note
 
@@ -29,7 +28,6 @@ title: Release Notes
 10. [Bug Fixes](#10-bug-fixes) — 5
 - [Important Notice: Release Notes Update](#important-notice-release-notes-update) — 6
 
----
 
 ## 1. Overview
 
