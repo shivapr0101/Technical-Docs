@@ -11,7 +11,7 @@ Welcome to the **Technical Documentation** hub — the central workspace for rel
 
 1. **Release Notes** 
 
-2. [Training Guides](./Docs/Training%20Guide/Basic%20Training%20Guide.md)
+2. [Training Guides](./Docs/Training%20Guide/Basic%20Training%20Guide)
 
 
 3. **User Guides** 
