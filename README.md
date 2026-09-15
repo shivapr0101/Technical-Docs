@@ -6,8 +6,9 @@ Welcome to the **Technical Documentation** hub — the central workspace for rel
 
 
 ## Workflow
+[ProductA]
+[ProductB]
 
-1. [klobase](./Docs/Product%20A/ver%201.0/Release-Notes/7.734%20release%20note.md)
 
 1. **Release Notes** 
 
